@@ -1,0 +1,30 @@
+#header-div{
+    background: linear-gradient(to left,white,#A3E9FF);
+}
+.navbar-toggler-icon {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger3.svg?color=021CA4');
+    }
+#about{
+    background: #D6F3FF;
+    padding-top: 1em;
+}
+#head-font{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+}
+#para-font{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+}
+#disha{
+    background: white;
+    padding-top: 1em;
+}
+#band{
+    background: #D6F3FF;
+    padding-top: 1em;
+}
+#footer{
+    background: #D6F3FF;
+    padding-top: 1em;
+}
